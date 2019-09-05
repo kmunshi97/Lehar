@@ -131,7 +131,7 @@ body {
   /* Section-1 Styles */
   #section-1 {
     height: 38em;
-    height: 97.50vh !important;
+    height: 100vh !important;
     color: #fff;
     background-color: #222;
   }
@@ -439,7 +439,7 @@ body {
       font-size: 4.5em;
     }
     #section-1 .content-slider .slider .banner .banner-inner-wrapper {
-      padding-top: 16em;
+      padding-top: 21em;
     }
   }
   @media only screen and (max-width: 768px) {
